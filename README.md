@@ -6,7 +6,7 @@ An end-to-end Machine Learning regression pipeline demonstrating feature selecti
 
 ## 🚀 Live App & Repository Links
 
-* **Live Interactive Streamlit App:** [Ames Housing Estimator App]([https://lnkd.in/e7CnStBR](https://ames-housing-regression-dkw9jkvvcnnmovw8zq7xp3.streamlit.app/))
+* **Live Interactive Streamlit App:** [Ames Housing Estimator App]([https://lnkd.in/e7CnStBR](https://ames-housing-regression-dkw9jkvvcnnmovw8zq7xp3.streamlit.app/)
 * **GitHub Repository:** [ames-housing-regression](https://github.com/afadamarcello-code/ames-housing-regression)
 
 ---
