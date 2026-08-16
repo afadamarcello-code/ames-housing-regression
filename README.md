@@ -54,8 +54,7 @@ Key predictive drivers identified by the final regression model:
 
 ## 🛠️ Data Pipeline & Methodology
 
-
-
+```text
 [ Raw Features (37) ]
           │
           ▼ (Correlation Matrix + VIF Analysis)
@@ -70,7 +69,7 @@ Key predictive drivers identified by the final regression model:
           ▼ (Model Comparison & Regularization)
 [ Final Model ($R^2 = 0.90$) ] ─► Exported to Scaler & Model Pickles (.pkl)
           │
-          ▼ (Streamlit)
+          ▼ (Streamlit & Docker Deployment)
 [ Web App / Production API ]
 
 
