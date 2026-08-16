@@ -1,6 +1,6 @@
 # 🏡 Ames Housing Price Prediction: Regression Diagnostics & Deployment
 
-An end-to-end Machine Learning regression pipeline demonstrating feature selection, multicollinearity reduction (VIF), **LINE framework assumption validation**, feature engineering, and production deployment using **Streamlit** and **Docker**.
+An end-to-end Machine Learning regression pipeline demonstrating feature selection, multicollinearity reduction (VIF), **LINE framework assumption validation**, feature engineering, and production deployment using **Streamlit**.
 
 ---
 
@@ -70,7 +70,7 @@ Key predictive drivers identified by the final regression model:
           ▼ (Model Comparison & Regularization)
 [ Final Model ($R^2 = 0.90$) ] ─► Exported to Scaler & Model Pickles (.pkl)
           │
-          ▼ (Streamlit & Docker Deployment)
+          ▼ (Streamlit)
 [ Web App / Production API ]
 
 
@@ -83,8 +83,7 @@ Machine Learning & Modeling: Scikit-Learn, Statsmodels
 
 Visualization: Matplotlib, Seaborn
 
-Deployment & Containerization: Streamlit, Docker
-```text
+Deployment & Containerization: Streamlit
 
 
 
